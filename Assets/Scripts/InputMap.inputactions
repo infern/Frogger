@@ -1,0 +1,185 @@
+{
+    "name": "InputMap",
+    "maps": [
+        {
+            "name": "c",
+            "id": "af8c9161-05d7-4954-9742-6df710026a49",
+            "actions": [
+                {
+                    "name": "moveUp",
+                    "type": "Button",
+                    "id": "7f9a2e99-c0c7-4155-b4a3-e72fe2bac91e",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "moveRight",
+                    "type": "Button",
+                    "id": "410a9b3f-7f71-48fe-b126-8b00d7acb793",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "moveDown",
+                    "type": "Button",
+                    "id": "64cc3023-237a-4b17-96e1-5fcf9b66b09f",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "moveLeft",
+                    "type": "Button",
+                    "id": "aeaeaf7e-09ca-45b8-9827-b4f920ec288a",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "quit",
+                    "type": "Button",
+                    "id": "1a32effd-d6b3-4a66-81a4-b8c248e09428",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "restart",
+                    "type": "Button",
+                    "id": "476f0911-2dc7-49f9-8220-f49a2e5192a9",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "level1",
+                    "type": "Button",
+                    "id": "2319b2f3-566f-41bc-87af-ad43852f26a7",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "level2",
+                    "type": "Button",
+                    "id": "1edd2a77-88ff-464e-991f-3e177475b85c",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "level3",
+                    "type": "Button",
+                    "id": "5e409bc2-6f67-48c8-a982-704594c720a7",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "d77555d1-e624-425b-a78f-438fa88061b2",
+                    "path": "<Keyboard>/w",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "moveUp",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "8bbf047d-6d8e-44c6-899e-4213859ab580",
+                    "path": "<Keyboard>/d",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "moveRight",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "d0e8bbf1-50e2-4202-990f-cd0be4a2eed4",
+                    "path": "<Keyboard>/s",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "moveDown",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "cbcbd0be-b4c9-4027-b4f8-6510d776ffe8",
+                    "path": "<Keyboard>/a",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "moveLeft",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "54ed4350-35dd-4863-824f-52cf5dc2a9b5",
+                    "path": "<Keyboard>/space",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "restart",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "c68b4325-1a03-4c07-b7fc-dd47177171d9",
+                    "path": "<Keyboard>/f1",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "level1",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "5b5bbf43-a7db-4f92-ab14-e5b6a53eb3f6",
+                    "path": "<Keyboard>/escape",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "quit",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "8fb5cbbb-aba0-4dfc-8097-51ef462e5546",
+                    "path": "<Keyboard>/f2",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "level2",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "86e66251-fb53-42ea-8fe5-0b1ee2c6c6eb",
+                    "path": "<Keyboard>/f3",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "level3",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}

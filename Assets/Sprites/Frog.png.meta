@@ -1,0 +1,562 @@
+fileFormatVersion: 2
+guid: 9f2555c0429dcea489895a6c59e8f715
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2820143329777312509
+    second: Frog_0
+  - first:
+      213: -1081280975163990012
+    second: Frog_1
+  - first:
+      213: -8937333279313398460
+    second: Frog_2
+  - first:
+      213: 2012254204448798509
+    second: Frog_3
+  - first:
+      213: -3072931601937957618
+    second: Frog_4
+  - first:
+      213: -4292050155679725338
+    second: Frog_5
+  - first:
+      213: -3970644508504664309
+    second: Frog_6
+  - first:
+      213: -8854543777015069593
+    second: Frog_7
+  - first:
+      213: 5987630775561802436
+    second: Frog_8
+  - first:
+      213: 8438832885612460969
+    second: Frog_9
+  - first:
+      213: -4805192828009921456
+    second: Frog_10
+  - first:
+      213: -5624443169046941588
+    second: Frog_11
+  - first:
+      213: -7726520944256971334
+    second: Frog_12
+  - first:
+      213: -6960719496521352972
+    second: Frog_13
+  - first:
+      213: -8477903332169468010
+    second: Frog_14
+  - first:
+      213: 68971895286123925
+    second: Frog_15
+  - first:
+      213: -1740013186970678990
+    second: Frog_16
+  - first:
+      213: 7342286843653349946
+    second: Frog_17
+  - first:
+      213: 7990478588194017560
+    second: Frog_18
+  - first:
+      213: 3068762423293090443
+    second: Frog_19
+  - first:
+      213: 4276901479937904
+    second: Frog_20
+  - first:
+      213: -9218276507229791443
+    second: Frog_21
+  - first:
+      213: 6848072044397391660
+    second: Frog_22
+  - first:
+      213: -4163236568176705610
+    second: Frog_23
+  - first:
+      213: -3303811575386757529
+    second: Frog_24
+  - first:
+      213: -6376357493711276638
+    second: Frog_25
+  - first:
+      213: -6192024681948860746
+    second: Frog_26
+  - first:
+      213: 4889246004365245299
+    second: Frog_27
+  - first:
+      213: 5308028097616604247
+    second: Frog_28
+  - first:
+      213: -1866532299043896802
+    second: Frog_29
+  - first:
+      213: 7581485085315128637
+    second: Frog_30
+  - first:
+      213: 8537286877663601282
+    second: Frog_31
+  - first:
+      213: -7973824622426199231
+    second: Frog_32
+  - first:
+      213: 1539200131018161969
+    second: Frog_33
+  - first:
+      213: -3385298073317845417
+    second: Frog_34
+  - first:
+      213: -5854669437238686789
+    second: Frog_35
+  - first:
+      213: -7515213266714209911
+    second: Frog_36
+  - first:
+      213: -1024321231195275522
+    second: Frog_37
+  - first:
+      213: -938380514301919023
+    second: Frog_38
+  - first:
+      213: 4213243159246638300
+    second: Frog_39
+  - first:
+      213: 2508871544487997737
+    second: Frog_40
+  - first:
+      213: 4711365352687431649
+    second: Frog_41
+  - first:
+      213: -1817899182979027394
+    second: Frog_42
+  - first:
+      213: 534199828954865166
+    second: Frog_43
+  - first:
+      213: -6871627834980445715
+    second: Frog_44
+  - first:
+      213: 9184197792564042404
+    second: Frog_45
+  - first:
+      213: -7260310751116794936
+    second: Frog_46
+  - first:
+      213: 2955031313186518933
+    second: Frog_47
+  - first:
+      213: 3934574226906902344
+    second: Frog_48
+  - first:
+      213: -316939058713680593
+    second: Frog_49
+  - first:
+      213: -6013924230196313465
+    second: Frog_50
+  - first:
+      213: -456001194450091271
+    second: Frog_51
+  - first:
+      213: 8302499815770694246
+    second: Frog_52
+  - first:
+      213: -7026710060795564806
+    second: Frog_53
+  - first:
+      213: -8933004965121833907
+    second: Frog_54
+  - first:
+      213: 659762701436263993
+    second: Frog_55
+  - first:
+      213: -4811101217499052056
+    second: Frog_56
+  - first:
+      213: 4815377552835492291
+    second: Frog_57
+  - first:
+      213: -5870644089438172524
+    second: Frog_58
+  - first:
+      213: 7257572098533974656
+    second: Frog_59
+  - first:
+      213: -3610414741853746756
+    second: Frog_60
+  - first:
+      213: 1578439825154721424
+    second: Frog_61
+  - first:
+      213: 4925045712269966573
+    second: Frog_62
+  - first:
+      213: -3011324800377372755
+    second: Frog_63
+  - first:
+      213: 5409512330501689735
+    second: Frog_64
+  - first:
+      213: 2624036418174531554
+    second: Frog_65
+  - first:
+      213: -1129467174449436878
+    second: Frog_66
+  - first:
+      213: 2358162469918341399
+    second: Frog_67
+  - first:
+      213: -84996994376688588
+    second: Frog_68
+  - first:
+      213: -4981152156079337559
+    second: Frog_69
+  - first:
+      213: 6395592439432362454
+    second: Frog_70
+  - first:
+      213: -5388938951155369169
+    second: Frog_71
+  - first:
+      213: 7463542074478746249
+    second: Frog_72
+  - first:
+      213: 2888587987469359699
+    second: Frog_73
+  - first:
+      213: -4928394326603996206
+    second: Frog_74
+  - first:
+      213: -5524929739225048207
+    second: Frog_75
+  - first:
+      213: -4079925673033150142
+    second: Frog_76
+  - first:
+      213: 6700930545538053239
+    second: Frog_77
+  - first:
+      213: -4140470965588610852
+    second: Frog_78
+  - first:
+      213: -6983589965698899850
+    second: Frog_79
+  - first:
+      213: -7516625807792461447
+    second: Frog_80
+  - first:
+      213: 5156522673244857275
+    second: Frog_81
+  - first:
+      213: -1725548686215929308
+    second: Frog_82
+  - first:
+      213: -2611460482392221199
+    second: Frog_83
+  - first:
+      213: -1723818374872676936
+    second: Frog_84
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Frog_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 172
+        width: 116
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df2601baa69232720800000000000000
+      internalID: 2820143329777312509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog_1
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 172
+        width: 116
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40066f49ea48ef0f0800000000000000
+      internalID: -1081280975163990012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog_2
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 172
+        width: 116
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4457f370cb638f380800000000000000
+      internalID: -8937333279313398460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog_3
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 172
+        width: 116
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d27f4fd9986fceb10800000000000000
+      internalID: 2012254204448798509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog_4
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 172
+        width: 116
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0d7a673df0ca55d0800000000000000
+      internalID: -3072931601937957618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 116
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e8cc88af139f64c0800000000000000
+      internalID: -4292050155679725338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog_6
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 0
+        width: 116
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b07593d5bdf65e8c0800000000000000
+      internalID: -3970644508504664309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog_7
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 0
+        width: 116
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7640fd229575e1580800000000000000
+      internalID: -8854543777015069593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog_8
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 0
+        width: 116
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c2de8f6776581350800000000000000
+      internalID: 5987630775561802436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
